@@ -4,6 +4,7 @@
 customer_id number,
 deposit_product_id number,
 contract_no varchar2(30),
+deposit_amount number(22,2),
 profit_amount number(22,2),
 start_date date);
 
